@@ -1,2 +1,2 @@
 # WED201c_PE_FA22
-WED201c Final Exam
+FPTU WED201c Practical Exam FALL 2022
